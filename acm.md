@@ -1,7 +1,7 @@
 ## ACM rundown
 
 
-### General imperatives
+### General imperatives (don't be a shitty person)
 
 1. Contribute to society and human well being
 2. avoid harm to others
@@ -12,7 +12,7 @@
 7. respect the privacy of others
 8. honor confidentiality
 
-### Specific responsibilties
+### Specific responsibilties (don't be a shitty developer)
 
 1. Strive for high work quality / effectiveness / dignity - in process and products of work
 2. acquire and maintian competence
@@ -23,7 +23,7 @@
 7. improve public understnaind go computing and its consequences
 8. access computing and communication resources ONLY when authorized
 
-### Leadership imperatives
+### Leadership imperatives (don't be a shitty leader, or let your developers be shitty)
 
 1. articulate social responsibilities of members of an organization
 2. manage personnel and resources to design adn build info systems that enhance quality of working life
@@ -32,7 +32,7 @@
 5. support policies that protect dignity o users
 6. create opportunities for members to learn principles/limitations of computing
 
-### Compliance with the code
+### Compliance with the code (shitty people will get kicked out)
 
 1. upload, promote the code
 2. treat violations of this code as inconsistent with membership in ACM
